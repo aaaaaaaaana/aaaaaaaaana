@@ -25,12 +25,5 @@ Studying  at this moment :)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-You can send menssage for me! 
-<br /> Find me on another apps. 
 
-<div> 
-  <a href = "mailto:cmp.1a.mariana.n.dourado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mariana-neugebauer-dourado-80588b266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"       style="border-radius: 30px" target="_blank"></a> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18765a&height=120&section=footer"/>
