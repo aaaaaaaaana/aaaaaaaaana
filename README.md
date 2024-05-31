@@ -21,9 +21,8 @@
 
 Studying  at this moment :)
 </br> 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript]([https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg))&nbsp;
+![Java]([https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg))&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18765a&height=120&section=footer"/>
