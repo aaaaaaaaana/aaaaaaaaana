@@ -1,21 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18765a&height=120&section=header"/>
 
 
-<!--## ✨ Hey, Dev! It’s good to see you here. ✨-->
+<!--## "I think it's nice that we share the same sky" -->
 
  welcome to my profile! 
 
 <div>
-- 🖊 I’m studying Software Engineear </br>
-  I´m doing my best version :)
+- 🖊 I’m studying  Systems Development Analyst </br>
+ 𝄞⨾𓍢ִ໋ I keep trying to be the best version of myself 𝄞⨾𓍢ִ໋
 </div>
 
 <div>  
  
-  <a href="https://github.com/NeugeMa">
+  <a href="https://github.com/aaaaaaaaana">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeugeMa&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeugeMa&layout=compact&langs_count=7&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaaaaaaaana&show_icons=true&count_private=true&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaaana&layout=compact&langs_count=7&hide_border=true&title_color=E31856&icon_color=E31856&text_color=E5D4FF&bg_color=0d1117"/>
 </div>
 
 
