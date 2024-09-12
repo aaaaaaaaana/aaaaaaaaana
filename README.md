@@ -6,8 +6,8 @@
  welcome to my profile! 
 
 <div>
-- 🖊 I’m studying  Systems Development Analyst </br>
- 𝄞⨾𓍢ִ໋ I keep trying to be the best version of myself 𝄞⨾𓍢ִ໋
+- 🖊 I’m studying Systems Development Analyst </br>
+ “For someone like myself in whom the ability to trust others is so cracked and broken that I am wretchedly timid and am forever trying to read the expression on people's faces.” 
 </div>
 
 <div>  
