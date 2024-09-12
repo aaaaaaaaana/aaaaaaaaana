@@ -6,8 +6,10 @@
  welcome to my profile! 
 
 <div>
-- 🖊 I’m studying Systems Development Analyst </br>
- “For someone like myself in whom the ability to trust others is so cracked and broken that I am wretchedly timid and am forever trying to read the expression on people's faces.” 
+- I’m studying Systems Development Analyst 
+</br> 
+</br> 
+ <b>“For someone like myself in whom the ability to trust others is so cracked and broken that I am wretchedly timid and am forever trying to read the expression on people's faces.” </b>
 </div>
 
 <div>  
