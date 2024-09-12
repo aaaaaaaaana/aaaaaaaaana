@@ -16,8 +16,8 @@
  
   <a href="https://github.com/aaaaaaaaana">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaaaaaaaana&show_icons=true&count_private=true&hide_border=true&title_color=186f2b&icon_color=228B22&text_color=E5D4FF&bg_color=0d1117&rank_icon=github" alt="My stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaaana&layout=compact&langs_count=7&hide_border=true&title_color=228B22&icon_color=228B22&text_color=E5D4FF&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaaaaaaaana&show_icons=true&count_private=true&hide_border=true&title_color=18765a&icon_color=228B22&text_color=18765a&bg_color=0d1117&rank_icon=github" alt="My stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaaana&layout=compact&langs_count=7&hide_border=true&title_color=18765a&icon_color=228B22&text_color=E5D4FF&bg_color=0d1117"/>
 </div>
 
 
