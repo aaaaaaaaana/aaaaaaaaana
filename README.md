@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=18765a&height=120&section=header"/>
 
 
-<!--## "I think it's nice that we share the same sky" -->
-
  welcome to my profile! 
 
 <div>
@@ -11,6 +9,7 @@
 </br> 
  <b>“For someone like myself in whom the ability to trust others is so cracked and broken that I am wretchedly timid and am forever trying to read the expression on people's faces.” </b>
 </div>
+</br> 
 
 <div>  
  
@@ -21,7 +20,7 @@
 </div>
 
 
-Studying  at this moment :)
+Studying at this moment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
 </br> 
 ![TypeScript]([https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg))&nbsp;
 ![Java]([https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg))&nbsp;
